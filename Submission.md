@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name:Abhijeet
+- Roll Number:2024-B-11112004A
+- GitHub Username:Abhi3975
 
 ---
 
